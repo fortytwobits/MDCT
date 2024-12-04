@@ -65,6 +65,17 @@ D = d+cR = -(-cR-d)
 3. Window: Multiply again with the chosen window
 4. Reconstruction: Add the overlapping parts of adjacent blocks to get back 
 the original sequence
+
+Note:
+Not the most efficient implementation as the purpose of this code is learning
+about and understanding the concepts
+
+References and Resources:
+https://en.wikipedia.org/wiki/Modified_discrete_cosine_transform
+https://web.archive.org/web/20230227100852/https://www.appletonaudio.com/
+blog/2013/understanding-the-modified-discrete-cosine-transform-mdct/
+https://github.com/TUIlmenauAMS
+https://github.com/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_mdct.ipynb
 ===============================================================================
 """
 
