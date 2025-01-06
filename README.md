@@ -4,7 +4,7 @@ Note: Work in Progress!!
 MDCT implementations
 
 # Demo
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fortytwobits/MDCT/demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fortytwobits/MDCT/blob/master/demo.ipynb)
 
 # References
 https://en.wikipedia.org/wiki/Modified_discrete_cosine_transform
